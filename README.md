@@ -12,7 +12,7 @@ Torchvision 0.9.0
 ## Guideline
 ### Downloading dataset: 
 
-Download the datset from **http://www.cs.toronto.edu/~kriz/cifar.html** Put the dataset on **data/**
+Download the dataset from **http://www.cs.toronto.edu/~kriz/cifar.html** Put the dataset on **data/**
 
 
 ### Get a SSL pre-trained model:
