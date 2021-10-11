@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Demystifying How Self-Supervised Features Improve Training from Noisy Labels
 This code is a PyTorch implementation of the paper "[Demystifying How Self-Supervised Features Improve Training from Noisy Labels]".
 The code is run on the Tesla V-100.
