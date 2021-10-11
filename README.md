@@ -45,9 +45,3 @@ python CE_Reg.py --reg rkd_dis --noise_type symmetric --noise_rate 0.6 --epochs 
 ## References
 
 The code of SSL pre-training is based on **https://github.com/leftthomas/SimCLR**
-
-
-
-=======
-# SelfSup_NoisyLabel
->>>>>>> bea396b421cb5340ce4f6dcfdad18dc8e718f59e
