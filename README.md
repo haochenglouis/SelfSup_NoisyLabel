@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Demystifying How Self-Supervised Features Improve Training from Noisy Labels
 This code is a PyTorch implementation of the paper "[Demystifying How Self-Supervised Features Improve Training from Noisy Labels]".
 The code is run on the Tesla V-100.
@@ -48,3 +49,6 @@ The code of SSL pre-training is based on **https://github.com/leftthomas/SimCLR*
 
 
 
+=======
+# SelfSup_NoisyLabel
+>>>>>>> bea396b421cb5340ce4f6dcfdad18dc8e718f59e
