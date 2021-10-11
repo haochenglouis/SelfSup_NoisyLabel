@@ -22,7 +22,7 @@ Run command below:
 ```
 python main.py --batch_size 512 --epochs 1000 
 ```
-Or download the pre-trained model from "[this url](https://drive.google.com/file/d/10IUG97crgC5S34kcbqtw7LOUuhPiol2V/view?usp=sharing)" and put the pre-trained model in **results/**
+Or download the pre-trained model from "[this url](https://drive.google.com/file/d/10IUG97crgC5S34kcbqtw7LOUuhPiol2V/view?usp=sharing)" and put the pre-trained model in **results/**.
 
 ### CE with fixed encoder on symm. label noise:
 Run command below:
